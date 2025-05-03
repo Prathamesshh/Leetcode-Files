@@ -1,4 +1,4 @@
-A shop uses old-style cash registers where prices are entered manually instead of being scanned from a database. This manual process can sometimes lead to errors.
+/*A shop uses old-style cash registers where prices are entered manually instead of being scanned from a database. This manual process can sometimes lead to errors.
 
 Given:
 
@@ -21,7 +21,7 @@ productPrices = [2.89, 3.29, 5.79];
 
 productSold = ["eggs", "eggs", "cheese", "milk"];
 soldPrice = [2.89, 2.99, 5.97, 3.29];
-
+*/
 
 
 
