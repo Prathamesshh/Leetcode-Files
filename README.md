@@ -52,4 +52,16 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
+## Math
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
