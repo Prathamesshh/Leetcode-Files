@@ -7,6 +7,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3838-weighted-word-mapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
