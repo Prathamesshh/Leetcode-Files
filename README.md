@@ -6,6 +6,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Array
 |  |
 | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -19,6 +20,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Segment Tree
 |  |
 | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -40,4 +42,12 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3838-weighted-word-mapping) |
+## Greedy
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
