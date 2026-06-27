@@ -7,12 +7,14 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -64,4 +66,8 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
