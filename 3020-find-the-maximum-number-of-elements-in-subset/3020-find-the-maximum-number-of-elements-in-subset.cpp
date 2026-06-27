@@ -1,26 +1,32 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        unordered_map<long long, int> cnt;
-        for (int num : nums) {
-            cnt[num]++;
+        int ans = 1;
+        unordered_map<long long,int> mp;
+        for (int i = 0; i < nums.size(); i++)
+        {
+            mp[nums[i]]++;
         }
-        int ans = 0;
-        // ans is at least the number of occurrences of 1, rounded down to an
-        // odd number
-        if (cnt[1] % 2 == 0) {
-            ans = cnt[1] - 1;
-        } else {
-            ans = cnt[1];
-        }
-        cnt.erase(1);
-        for (auto& [num, _] : cnt) {
-            int res = 0;
-            long long x = num;
-            for (; cnt.contains(x) && cnt[x] > 1; x *= x) {
-                res += 2;
+        for(auto &pair : mp){
+            long long x = pair.first;
+            if(x == 1){
+                int oneCount = mp[1];
+                if(oneCount % 2 == 0){    
+                    oneCount--;
+                }
+                ans = max(ans, oneCount);
+                continue;
             }
-            ans = max(ans, res + (cnt.contains(x) ? 1 : -1));
+
+            int currLen = 0;
+            while(mp[x] >= 2 && mp.find(x * x) != mp.end()){
+                currLen += 2;
+                x = x * x;
+            }
+            if(mp.find(x) != mp.end()){
+                currLen++;
+            }
+            ans = max(ans, currLen);
         }
         return ans;
     }
