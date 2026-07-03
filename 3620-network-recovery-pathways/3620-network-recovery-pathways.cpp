@@ -1,3 +1,27 @@
+/*
+Binary Search + Dijkstra
+Intuition
+This approach follows the exact same binary search idea.
+
+We still try:
+
+Can we make a valid path where every edge cost >= mid ?
+The only difference is:
+Instead of using Topological Sort for shortest path,
+
+we use:
+Dijkstra Why?
+
+Because after filtering edges:
+cost >= mid
+
+we only need:
+minimum total path cost, And Dijkstra is the standard algorithm for shortest path in
+weighted graphs.
+This works because:
+all edge weights are positive, we want minimum path cost
+*/
+
 class Solution {
 public:
     int n;
