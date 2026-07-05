@@ -6,6 +6,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -114,6 +115,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -130,6 +132,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
