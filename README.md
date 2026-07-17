@@ -12,6 +12,7 @@ This Repository contains all the solutions of leetcode problems.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -22,6 +23,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -43,11 +45,13 @@ This Repository contains all the solutions of leetcode problems.
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -74,6 +78,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
@@ -100,6 +105,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -138,4 +144,12 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
