@@ -1,33 +1,42 @@
 class Solution {
 public:
     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
-        int m = *max_element(nums.begin(), nums.end());
-        vector<long long> cnt(m + 1);
-        for (int num : nums) {
-            cnt[num]++;
+        int maxNum = *max_element(nums.begin(), nums.end());
+        long long cnt[maxNum + 1];
+        memset(cnt, 0, sizeof(cnt));
+        for (const int num: nums)
+            ++cnt[num];
+        for (int num = 1; num <= maxNum; num++) {
+            for (int i = num * 2; i <= maxNum; i += num)
+                cnt[num] += cnt[i];
         }
-        for (int i = 1; i <= m; i++) {
-            for (int j = i * 2; j <= m; j += i) {
-                cnt[i] += cnt[j];
+        for (int num = 1; num <= maxNum; num++)
+            cnt[num] = cnt[num] * (cnt[num] - 1) / 2;
+        for (int num = maxNum - 1; num >= 1; num--) {
+            for (int i = num * 2; i <= maxNum; i += num)
+                cnt[num] -= cnt[i];
+        }
+        for (int num = 2; num <= maxNum; num++)
+            cnt[num] += cnt[num - 1];
+        
+        // for (int i = 1; i <= maxNum; i++)
+        //     cout << i << "," << cnt[i] << endl;
+
+        vector<int> res;
+        res.reserve(queries.size());
+        for (long long query: queries) {
+            ++query;
+            int l = 1, r = maxNum;
+            while (l < r) {
+                int m = l + (r - l) / 2;
+                if (cnt[m] >= query) {
+                    r = m;
+                } else {
+                    l = m + 1;
+                }
             }
+            res.push_back(r);
         }
-        for (int i = 1; i <= m; i++) {
-            cnt[i] = cnt[i] * (cnt[i] - 1) / 2;
-        }
-        for (int i = m; i >= 1; i--) {
-            for (int j = i * 2; j <= m; j += i) {
-                cnt[i] -= cnt[j];
-            }
-        }
-        for (int i = 1; i <= m; i++) {
-            cnt[i] += cnt[i - 1];
-        }
-        vector<int> ans;
-        for (long long q : queries) {
-            q++;
-            int pos = lower_bound(cnt.begin(), cnt.end(), q) - cnt.begin();
-            ans.push_back(pos);
-        }
-        return ans;
+        return res;
     }
 };
