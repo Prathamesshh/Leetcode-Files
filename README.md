@@ -80,6 +80,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
@@ -152,4 +153,5 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
