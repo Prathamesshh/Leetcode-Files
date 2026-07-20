@@ -7,6 +7,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,6 +104,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
