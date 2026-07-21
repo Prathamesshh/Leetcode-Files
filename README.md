@@ -9,6 +9,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1260-shift-2d-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
@@ -24,6 +25,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
@@ -112,6 +114,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
