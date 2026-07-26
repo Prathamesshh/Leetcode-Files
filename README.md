@@ -6,6 +6,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
@@ -97,6 +98,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -126,6 +128,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
