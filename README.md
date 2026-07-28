@@ -11,6 +11,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -92,6 +93,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
@@ -132,6 +134,7 @@ This Repository contains all the solutions of leetcode problems.
 | [0628-maximum-product-of-three-numbers](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3536-maximum-product-of-two-digits) |
