@@ -77,6 +77,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -94,6 +95,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -108,6 +110,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3513-number-of-unique-xor-triplets-i) |
