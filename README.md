@@ -25,6 +25,7 @@ This Repository contains all the solutions of leetcode problems.
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -101,6 +102,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -153,6 +155,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -164,6 +167,7 @@ This Repository contains all the solutions of leetcode problems.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -188,6 +192,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -200,6 +205,7 @@ This Repository contains all the solutions of leetcode problems.
 | [0486-predict-the-winner](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -230,6 +236,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -242,4 +249,8 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0486-predict-the-winner) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
