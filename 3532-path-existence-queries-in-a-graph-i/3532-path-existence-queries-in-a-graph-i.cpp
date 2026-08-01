@@ -2,22 +2,18 @@ class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff,
                                       vector<vector<int>>& queries) {
-        vector<int> rights;
+        vector<int> cmp(n);
+
         for (int i = 1; i < n; i++) {
-            if (nums[i] - nums[i - 1] > maxDiff) {
-                rights.push_back(i - 1);
-            }
+            cmp[i] = cmp[i - 1] + (nums[i] - nums[i - 1] > maxDiff);
         }
-        rights.push_back(n - 1);
 
-        vector<bool> res(queries.size());
-        for (int i = 0; i < queries.size(); i++) {
-            int x = queries[i][0];
-            int y = queries[i][1];
+        vector<bool> res;
 
-            res[i] = ranges::lower_bound(rights, x) ==
-                     ranges::lower_bound(rights, y);
+        for (const auto &q : queries) {
+            res.push_back(cmp[q[0]] == cmp[q[1]]);
         }
+
         return res;
     }
 };
