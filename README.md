@@ -22,6 +22,7 @@ This Repository contains all the solutions of leetcode problems.
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -59,6 +60,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -180,6 +182,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -279,4 +282,12 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
