@@ -19,6 +19,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2126-destroying-asteroids](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2126-destroying-asteroids) |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -110,6 +111,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -169,6 +171,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2126-destroying-asteroids) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
