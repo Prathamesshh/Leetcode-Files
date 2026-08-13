@@ -25,6 +25,7 @@ This Repository contains all the solutions of leetcode problems.
 | [2540-minimum-common-value](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
@@ -49,6 +50,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2540-minimum-common-value) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -200,6 +202,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
