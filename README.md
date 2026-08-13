@@ -21,6 +21,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2126-destroying-asteroids) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -66,6 +67,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -98,6 +100,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -317,6 +320,7 @@ This Repository contains all the solutions of leetcode problems.
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
 ## Backtracking
 |  |
