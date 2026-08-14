@@ -23,6 +23,7 @@ This Repository contains all the solutions of leetcode problems.
 | [2126-destroying-asteroids](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2126-destroying-asteroids) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -120,6 +121,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1260-shift-2d-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
