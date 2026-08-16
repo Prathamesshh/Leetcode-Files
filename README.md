@@ -30,6 +30,7 @@ This Repository contains all the solutions of leetcode problems.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3093-longest-common-suffix-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
@@ -111,6 +112,7 @@ This Repository contains all the solutions of leetcode problems.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3093-longest-common-suffix-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -362,4 +364,8 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1510-stone-game-iv) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
