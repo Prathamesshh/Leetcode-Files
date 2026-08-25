@@ -20,6 +20,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1563-stone-game-v](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2029-stone-game-ix) |
@@ -106,6 +107,7 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -172,6 +174,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1406-stone-game-iii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2029-stone-game-ix) |
@@ -288,6 +291,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1406-stone-game-iii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -347,6 +351,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1406-stone-game-iii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -373,12 +378,14 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
