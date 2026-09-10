@@ -207,11 +207,13 @@ This Repository contains all the solutions of leetcode problems.
 ## Tree
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -417,4 +419,8 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Prathamesshh/Leetcode-Files/tree/master/3093-longest-common-suffix-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
