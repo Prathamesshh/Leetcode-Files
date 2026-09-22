@@ -185,6 +185,7 @@ This Repository contains all the solutions of leetcode problems.
 | [0628-maximum-product-of-three-numbers](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1563-stone-game-v) |
@@ -433,4 +434,8 @@ This Repository contains all the solutions of leetcode problems.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
