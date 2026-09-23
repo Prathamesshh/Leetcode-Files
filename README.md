@@ -69,6 +69,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -134,6 +135,7 @@ This Repository contains all the solutions of leetcode problems.
 | [0940-distinct-subsequences-ii](https://github.com/Prathamesshh/Leetcode-Files/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -165,6 +167,7 @@ This Repository contains all the solutions of leetcode problems.
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2029-stone-game-ix) |
@@ -253,6 +256,7 @@ This Repository contains all the solutions of leetcode problems.
 | [1288-remove-covered-intervals](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prathamesshh/Leetcode-Files/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2126-destroying-asteroids) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prathamesshh/Leetcode-Files/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
